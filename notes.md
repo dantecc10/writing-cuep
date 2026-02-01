@@ -2,7 +2,6 @@
 
 ## Dante Castelán Carpinteyro
 
-
 ## Signos de puntuación
 
 Son marcas gráficas que aportan organización a los textos escritos de modo que puedan leerse con la entonación adecuada, e interpretados correctamente.
